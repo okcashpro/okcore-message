@@ -23,7 +23,7 @@
     "url": "https://github.com/okcashpro/okcore-message.git"
   },
   "dependencies": {
-    "okcore-lib": "okcashpro/okcore-lib"
+    "okcore-lib": "^0.13.19"
   },
   "devDependencies": {
     "okcore-build": "okcashpro/okcore-build",
