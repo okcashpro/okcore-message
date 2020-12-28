@@ -1,19 +1,19 @@
 {
-  "name": "litecore-message",
-  "main": "./litecore-message.min.js",
+  "name": "okcore-message",
+  "main": "./okcore-message.min.js",
   "version": "1.0.2",
-  "homepage": "https://github.com/litecoin-project/litecore-message",
+  "homepage": "https://github.com/okcashpro/okcore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Litecoin Message Verification and Signing for Litecore",
+  "description": "Okcash Message Verification and Signing for Okcash",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "litecoin",
-    "litecore",
-    "ltc",
+    "okcash",
+    "okcore",
+    "ok",
     "satoshi",
     "message",
     "signing"

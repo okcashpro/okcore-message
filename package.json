@@ -1,7 +1,7 @@
 {
-  "name": "litecore-message",
+  "name": "okcore-message",
   "version": "1.0.5",
-  "description": "Litecoin Messages for Litecore",
+  "description": "Okcash Messages for Okcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -11,22 +11,22 @@
     "build": "gulp"
   },
   "keywords": [
-    "litecoin",
-    "litecore",
-    "ltc",
+    "okcash",
+    "okcore",
+    "ok",
     "satoshi",
     "message",
     "signing"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore-message.git"
+    "url": "https://github.com/okcashpro/okcore-message.git"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.22"
+    "okcore-lib": "okcashpro/okcore-lib"
   },
   "devDependencies": {
-    "litecore-build": "litecoin-project/litecore-build",
+    "okcore-build": "okcashpro/okcore-build",
     "brfs": "^1.3.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10"
